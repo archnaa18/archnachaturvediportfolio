@@ -79,7 +79,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/chaturvediarchna1804?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5S6%2FJB4lQFq6cp%2FkaZ%2FClA%3D%3D"
+            href="https://www.linkedin.com/in/chaturvediarchna1804?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuHX33QOoSI%2BBqX%2FtWrt07Q%3D%3D"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -122,7 +122,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://github.com/codingmastr"
+                href="https://github.com/archnaa18"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
@@ -130,7 +130,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+                href="https://www.linkedin.com/in/chaturvediarchna1804?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuHX33QOoSI%2BBqX%2FtWrt07Q%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
